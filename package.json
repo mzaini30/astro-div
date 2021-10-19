@@ -1,0 +1,26 @@
+{
+  "name": "astro-div",
+  "version": "0.0.1",
+  "description": "It's only &lt;Div/>",
+  "main": "src/pages/_div.astro",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzaini30/astro-div.git"
+  },
+  "keywords": [
+    "astro-component"
+  ],
+  "author": "Zen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mzaini30/astro-div/issues"
+  },
+  "homepage": "https://github.com/mzaini30/astro-div#readme",
+  "devDependencies": {
+    "astro": "^0.20.12"
+  }
+}
